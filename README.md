@@ -1,5 +1,4 @@
-# Guia-Automacao-Residencial-IoT
-# Guia de Automação Residencial
+# Guia de Automação Residencial - IoT
 
 ### Vitor Fernandes
 
