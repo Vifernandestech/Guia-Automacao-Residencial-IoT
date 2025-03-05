@@ -2,7 +2,7 @@
 
 ### Vitor Fernandes
 
-**Estudante Técnico em Informática | Estudante Curso Superior de Tecnologia em Segurança Cibernética - CST | Automação Residencial e IoT**
+**Estudante Curso Superior de Tecnologia em Segurança Cibernética - CST | Estudante Curso Técnico em Informática | Automação Residencial e IoT**
 
 ---
 
