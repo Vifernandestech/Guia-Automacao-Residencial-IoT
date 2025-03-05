@@ -23,7 +23,7 @@ A segmentação de redes consiste em dividir a rede local em diferentes sub-rede
 
 ### Pré-requisitos
 - Roteador com suporte a redes múltiplas (SSID Secundário)
-- Acesso ao painel de administração do roteador
+- Acesso ao painel de administração do roteador (visto no guia anterior)
 - Lista de endereços MAC dos dispositivos IoT
 
 ### Passo a Passo
