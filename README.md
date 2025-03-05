@@ -26,7 +26,7 @@ A automação residencial não é apenas sobre conforto, mas também sobre efici
 
 ---
 
-## 2. Configuração inicial do Roteador - Sem segmentação de Redes
+## 2. Configuração inicial do Roteador (Verifique qual a melhor opção para seu caso)
 
 ### Opção 1: Resetando o Roteador
 
