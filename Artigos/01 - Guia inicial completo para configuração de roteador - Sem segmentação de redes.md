@@ -1,8 +1,8 @@
-# Guia Definitivo para Configuração Inicial de Roteadores Sem Fio - Sem Segmentação de Redes
+# Guia Definitivo para Configuração Inicial de Roteadores Sem Fio
 
 ## Introdução
 
-Este guia completo apresenta o passo a passo para configurar, otimizar e proteger seu roteador sem fio, garantindo maior segurança e desempenho para sua rede Wi-Fi. Seguindo estas etapas, você conseguirá prevenir acessos não autorizados e melhorar a qualidade da sua conexão.
+Este guia inicial completo apresenta o passo a passo para configurar, otimizar e proteger seu roteador sem fio, garantindo maior segurança e desempenho para sua rede Wi-Fi. Seguindo estas etapas, você conseguirá prevenir acessos não autorizados e melhorar a qualidade da sua conexão.
 
 ---
 
