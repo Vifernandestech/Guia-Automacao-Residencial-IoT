@@ -26,7 +26,7 @@ A automação residencial não é apenas sobre conforto, mas também sobre efici
 
 ---
 
-## 2. Configuração do Roteador
+## 2. Configuração inicial do Roteador - Sem segmentação de Redes
 
 ### Opção 1: Resetando o Roteador
 
@@ -44,7 +44,7 @@ A automação residencial não é apenas sobre conforto, mas também sobre efici
 
 ---
 
-### Opção 2: Criando uma Rede Secundária (SSID Secundário)
+### Opção 2: Criando uma Rede Secundária (SSID Secundário) - Aplicando segmentação de Redes
 
 1. Acesse o roteador pelo navegador.
 2. Vá para **Configurações Wireless > SSID Secundário**.
