@@ -26,9 +26,9 @@ A automação residencial não é apenas sobre conforto, mas também sobre efici
 
 ---
 
-## 2. Configuração inicial do Roteador (Verifique qual a melhor opção para seu caso)
+## 2. Configuração completa do Roteador
 
-### Opção 1: Resetando o Roteador
+### Opção 1: Resetando e configurando o Roteador
 
 1. Identifique o IP do Gateway (geralmente **192.168.0.1** ou **192.168.1.1**).
 2. Acesse o roteador pelo navegador.
@@ -37,8 +37,6 @@ A automação residencial não é apenas sobre conforto, mas também sobre efici
 5. Frequência: **2.4 GHz**
 6. Segurança: **WPA2-PSK (AES)**
 7. Defina uma senha forte.
-8. Configure o **Controle de Acesso por MAC Address**.
-9. Reserve IPs estáticos para cada dispositivo IoT.
 
 [Guia completo de configuração de roteador](#)
 
